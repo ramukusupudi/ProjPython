@@ -1,2 +1,0 @@
-# ProjPython
-Pythonlearingproject
